@@ -7,8 +7,7 @@ Now we make local repo(folder) part of the git by
 intializing it as "git init"
 
 3:
-We add a file and then connect local repo to remote 
-repo using => git add "filename"
+We add a file and then we add the file from local repo to remote repo using => git add "filename"
 
 4:
 Now, we need to commit the files too. using
