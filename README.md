@@ -18,6 +18,8 @@ We upload our modified file from local to github
 but we also need another repo(folder) in the github
 and we do that by creating a new repo directly in github and copying its link. Then we 
 => git remote add origin "link"
+// This process is done once to connect the local folder with the main repo folder in github. Once created it doesnot need to be repeated again.
+We can skip the part after initial time execution.
 
 6: 
 Now we need to push the data to the cloud(remote) repo and we do it using command like
